@@ -14,6 +14,9 @@ To identify the best model for this task, we experimented with three architectur
 <img width="873" height="346" alt="Image" src="https://github.com/user-attachments/assets/932bf8c4-9a9c-4a3f-b585-cb96e79ba944" />
 <img width="866" height="291" alt="Image" src="https://github.com/user-attachments/assets/5c0f7272-a464-4878-abd7-889f554fe1ec" />
 <img width="1093" height="267" alt="Image" src="https://github.com/user-attachments/assets/4fdccf1e-ac5f-46bc-abc4-6a908dc47324" />
+<img width="735" height="670" alt="Image" src="https://github.com/user-attachments/assets/e5a280d3-ca82-4091-a8af-845ea294176e" />
+<img width="1375" height="388" alt="Image" src="https://github.com/user-attachments/assets/9c7a2e63-81be-44fb-aeb1-216df06895b3" />
+<img width="1313" height="522" alt="Image" src="https://github.com/user-attachments/assets/a5fd3cbc-25f5-4b88-9218-0984f346eceb" />
 
 ## How the Model Functions
 The model processes each review to predict its sentiment as positive or negative, using an LSTM model optimized for sequential text data. This approach enables the model to capture contextual information across word sequences, leading to more accurate sentiment classification.
