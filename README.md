@@ -4,6 +4,17 @@ This guide provides a comprehensive walkthrough on building a sentiment classifi
 
 To identify the best model for this task, we experimented with three architectures: Simple Neural Network, CNN, and LSTM. After evaluating each model, we explain why LSTMs are particularly effective for handling sequential text data.
 
+<img width="791" height="272" alt="Image" src="https://github.com/user-attachments/assets/69aff0c5-ce5e-45d1-891b-f594021461b7" />
+<img width="829" height="563" alt="Image" src="https://github.com/user-attachments/assets/0bdcac16-f9a6-4da9-b397-59d1c6cee16a" />
+<img width="533" height="240" alt="Image" src="https://github.com/user-attachments/assets/a4caad8c-ebe8-475f-b028-336b8e7c49d6" />
+<img width="878" height="287" alt="Image" src="https://github.com/user-attachments/assets/4e858eb4-c535-4d7a-9b5e-6f5d23d02841" />
+<img width="1052" height="275" alt="Image" src="https://github.com/user-attachments/assets/31ae53a9-de9d-4be6-b894-41473df13c7c" />
+<img width="860" height="351" alt="Image" src="https://github.com/user-attachments/assets/b64c51ed-b6d6-4357-8278-ab3c829a3562" />
+<img width="1073" height="271" alt="Image" src="https://github.com/user-attachments/assets/f6d74aed-8b94-4a1f-bce2-b5ce353c7f00" />
+<img width="873" height="346" alt="Image" src="https://github.com/user-attachments/assets/932bf8c4-9a9c-4a3f-b585-cb96e79ba944" />
+<img width="866" height="291" alt="Image" src="https://github.com/user-attachments/assets/5c0f7272-a464-4878-abd7-889f554fe1ec" />
+<img width="1093" height="267" alt="Image" src="https://github.com/user-attachments/assets/4fdccf1e-ac5f-46bc-abc4-6a908dc47324" />
+
 ## How the Model Functions
 The model processes each review to predict its sentiment as positive or negative, using an LSTM model optimized for sequential text data. This approach enables the model to capture contextual information across word sequences, leading to more accurate sentiment classification.
 
